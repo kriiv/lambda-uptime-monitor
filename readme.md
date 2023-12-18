@@ -6,4 +6,5 @@ Lambda is triggered on schedule via Cloudwatch.
 
 Repo is completely packaged, ready to zip and push to Lambda.
 
+Update URLs to check: `urls_to_check = ["https://example.com", "https://example.com"]`
 Slack webhook URl set in env variables. `SLACK_WEBHOOK_URL`
